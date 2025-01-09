@@ -24,7 +24,7 @@ div{
  background-color: white;
  outline:solid #3882f6;
  border-radius: 10px;
- 
+ transition: transform 0.3s ease;
  
 
 
@@ -166,6 +166,12 @@ transition: background-color 0.3s ease, transform 0.3s ease;
 
 #SignUp:hover {
   background-color: #295db2;
+  transition: 0.3s;
+  transform: scale(1.1);
+}
+
+
+.block:hover {
   transition: 0.3s;
   transform: scale(1.1);
 }
