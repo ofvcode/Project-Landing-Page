@@ -25,6 +25,7 @@ div{
  outline:solid #3882f6;
  border-radius: 10px;
  
+ 
 
 
 
@@ -144,4 +145,11 @@ transition: background-color 0.3s ease, transform 0.3s ease;
   background-color: #295db2;
   transition: 0.3s;
   transform: scale(1.1);
+}
+
+.hold p {
+color:black;
+
+
+
 }
