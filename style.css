@@ -1,6 +1,6 @@
 div{
  display:flex;
-
+ outline:solid black
 
  
  
@@ -60,10 +60,21 @@ div{
 .container{
 max-width: 1200px;
 width:1200px;
-justify-content: center;;
+justify-content: center;
 margin: 0 auto;
 margin-bottom:80px;
 
+
+
+}
+
+
+.full-width-gray .container {
+max-width:1000px;
+margin-top:100px;
+font-style: italic;
+font-size:36px;
+color:#1F2937
 
 
 }
