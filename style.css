@@ -1,0 +1,52 @@
+div{
+ display:flex;
+ 
+
+}
+
+.topBar{
+    align-items:center;
+    width:100%;
+
+
+
+}
+
+.secondSection{
+    width:100%;
+    flex-direction: row;
+
+
+
+}
+
+
+
+.container{
+margin-left:400px;
+margin-right:400px;
+
+}
+
+img{
+width:300px;
+height:100px;
+align-self:center;
+margin:40px;
+align-items:center;
+justify-content: center;
+
+
+}
+
+button{
+width:100px;
+margin-bottom:10px;
+
+
+}
+
+*{
+font-family: Roboto;
+
+}
